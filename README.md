@@ -17,6 +17,9 @@ Projects I want to put on Git
 4. Design elements
 : I design a lot of things like posters and such. Maybe GitHub is a good place to place my WIP while DeviantArt is a good place for my finished products
 
+5. Wordpress Themes
+: Maybe I should redesign 31 the series in time for release.
 
-- Wolfkin
+\-\-  
+Wolfkin  
 http://about.me/wolfkin 
