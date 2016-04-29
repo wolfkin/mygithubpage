@@ -20,6 +20,10 @@ Projects I want to put on Git
 5. Wordpress Themes
 : Maybe I should redesign 31 the series in time for release.
 
+6. Personal Wiki  
+: http://wikidpad.sourceforge.net/  
+: http://tiddlywiki.com/
+
 \-\-  
 Wolfkin  
 http://about.me/wolfkin 
