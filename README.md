@@ -22,7 +22,9 @@ Projects I want to put on Git
 
 6. Personal Wiki  
 : http://wikidpad.sourceforge.net/  
-: http://tiddlywiki.com/
+: http://tiddlywiki.com/  
+: https://en.wikipedia.org/wiki/List_of_wiki_software#Standard_wiki_software  
+: https://en.wikipedia.org/wiki/Personal_wiki   
 
 \-\-  
 Wolfkin  
