@@ -26,6 +26,10 @@ Projects I want to put on Git
 : https://en.wikipedia.org/wiki/List_of_wiki_software#Standard_wiki_software  
 : https://en.wikipedia.org/wiki/Personal_wiki   
 
+7. Fork and LaTex this [RegEx Cheat Cheat](https://github.com/palucki/regexcheatsheet)
+
+ 
+
 \-\-  
 Wolfkin  
 http://about.me/wolfkin 
